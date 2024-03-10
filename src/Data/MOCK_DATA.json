@@ -1,0 +1,1864 @@
+{
+    "feesmanagement": {
+        "code1": "0",
+        "message": "Students successfully retrieved",
+        "Students": [
+            {
+                "_id": "2020PHM020200001",
+                "name": "LAASYA REMALLI ",
+                "dob": "2000-04-30T00:00:00.000Z",
+                "gender": "Female",
+                "fatherName": "RAVI KUMAR",
+                "category": "OC",
+                "joiningYear": 2021,
+                "course": "Pharm D",
+                "currentYear": 2,
+                "yearWiseFees": {
+                    "1": {
+                        "tuitionFee": 0,
+                        "universityDevpFee": 0,
+                        "otherUNIVFee": 0
+                    },
+                    "2": {
+                        "tuitionFee": 35000,
+                        "universityDevpFee": 35000,
+                        "otherUNIVFee": 35000
+                    },
+                    "3": {
+                        "tuitionFee": 35000,
+                        "universityDevpFee": 35000,
+                        "otherUNIVFee": 35000
+                    }
+                },
+                "totalFeesPaid": 6800,
+                "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+                "createdBy": "ROHIT",
+                "lastModifiedBy": "ROHIT",
+                "deleteMark": 0,
+                "isActive": 1,
+                "changeCount": 1,
+                "tenantCode": "Fees",
+                "acl": [],
+                "__v": 0,
+                "dateCreated": "2023-04-25T17:51:15.060Z",
+                "lastModifiedDate": "2023-04-25T18:02:16.049Z",
+                "pendingFees": {
+                    "1": {
+                        "tuitionFee": 0,
+                        "universityDevpFee": 0,
+                        "otherUNIVFee": 0
+                    },
+                    "2": {
+                        "tuitionFee": 35000,
+                        "universityDevpFee": 28200,
+                        "otherUNIVFee": 35000
+                    },
+                    "3": {
+                        "tuitionFee": 35000,
+                        "universityDevpFee": 35000,
+                        "otherUNIVFee": 35000
+                    }
+                },
+                "excessFees": 0
+            },
+            {
+        "_id": "2020PHM020200002",
+        "name": "ASHOK BABU J",
+        "dob": "2000-05-01T00:00:00.000Z",
+        "gender": "Male",
+        "fatherName": "DURGA RAO",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 19925,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 1,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.060Z",
+        "lastModifiedDate": "2023-04-25T18:02:16.063Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 15075,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200003",
+        "name": "NAVYA KALYANI KAVURI",
+        "dob": "2000-05-02T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "JAGANMOHAN RAO",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 10000,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 9925,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 1,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.061Z",
+        "lastModifiedDate": "2023-04-25T18:02:16.069Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 75,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200004",
+        "name": "AVINASH MEDAM",
+        "dob": "2000-05-03T00:00:00.000Z",
+        "gender": "Male",
+        "fatherName": "SUBBA RAO",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 23525,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 1,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.061Z",
+        "lastModifiedDate": "2023-04-25T18:02:16.079Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 11475,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200007",
+        "name": "GAYATHRI PEDDISETTI ",
+        "dob": "2000-05-04T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "GANGADHARA RAO",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 17500,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 1,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.061Z",
+        "lastModifiedDate": "2023-04-25T18:02:16.088Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 17500,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200009",
+        "name": "HARSHITHA VARRE ",
+        "dob": "2000-05-05T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "DANESWARA RAO",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 9925,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 1,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.061Z",
+        "lastModifiedDate": "2023-04-25T18:02:16.097Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 25075,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200011",
+        "name": "KARUNA KAGGA",
+        "dob": "2000-05-06T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "NARAYANA",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 17500,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 1,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.061Z",
+        "lastModifiedDate": "2023-04-25T18:02:16.107Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 17500,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200012",
+        "name": "KEERTHANA CHALLAPALLI ",
+        "dob": "2000-05-07T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "RAMBABU",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 18675,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 1,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.061Z",
+        "lastModifiedDate": "2023-04-25T18:02:16.117Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 16325,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200013",
+        "name": "LAKSHMI VASADI  ",
+        "dob": "2000-05-08T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "SURYA CHANDRA RAO",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 9925,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 1,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.061Z",
+        "lastModifiedDate": "2023-04-25T18:02:16.126Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 25075,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200014",
+        "name": "LAKSHMI DEVI BEERA",
+        "dob": "2000-05-09T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "GAJENDRA RAO",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.062Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.062Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200015",
+        "name": "MANASWITHA SARIPALLI ",
+        "dob": "2000-05-10T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "JAMES RAO",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.062Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.062Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200016",
+        "name": "MANEESHA CHINTA",
+        "dob": "2000-05-11T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "DURGA REDDY",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.062Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.062Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200017",
+        "name": "NAVYA KALA URLA ",
+        "dob": "2000-05-12T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "PEDDI RAJU",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.062Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.062Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200018",
+        "name": "PRAVEEN KINJINGI",
+        "dob": "2000-05-13T00:00:00.000Z",
+        "gender": "Male",
+        "fatherName": "VENKATA NAGARAJU",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.062Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.062Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200019",
+        "name": "RAMA SAI REMALLI ",
+        "dob": "2000-05-14T00:00:00.000Z",
+        "gender": "Male",
+        "fatherName": "CHINNA BABU",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.062Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.062Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200020",
+        "name": "RANI MANASA NANNA ",
+        "dob": "2000-05-15T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "PULLA RAO",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 8750,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 1,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.063Z",
+        "lastModifiedDate": "2023-04-25T18:02:16.138Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 26250,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200021",
+        "name": "RISHITHA SHRI K",
+        "dob": "2000-05-16T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "MALLIKARJUNA",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 8750,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 1,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.063Z",
+        "lastModifiedDate": "2023-04-25T18:02:16.146Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 26250,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200022",
+        "name": "SAI TEJA KAMBHAMPATI ",
+        "dob": "2000-05-17T00:00:00.000Z",
+        "gender": "Male",
+        "fatherName": "KOTESWARA RAO",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.063Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.063Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200023",
+        "name": "SRAVANI KOPPULA ",
+        "dob": "2000-05-18T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "VENKATESWARA RAO",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 8750,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 1,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.063Z",
+        "lastModifiedDate": "2023-04-25T18:02:16.153Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 26250,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200025",
+        "name": "TAYYABA BASRI MD",
+        "dob": "2000-05-19T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "MD MASTAN",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 8750,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 1,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.063Z",
+        "lastModifiedDate": "2023-04-25T18:02:16.162Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 26250,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200026",
+        "name": "TEJA HARSHINI KATAM",
+        "dob": "2000-05-20T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": " PRABHAKARA RAO",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.063Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.063Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200027",
+        "name": "VARSHA POTHURAJU ",
+        "dob": "2000-05-21T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "SATYA CHANDRA BABU",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.064Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.064Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020200029",
+        "name": "VEDA SAHITHI S",
+        "dob": "2000-05-22T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "PYDI RAJU",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.064Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.064Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020210005",
+        "name": "AARTHI KAJA ",
+        "dob": "2000-05-23T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "NAGESWARA RAO",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.064Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.064Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020210006",
+        "name": "CHARITHA DEVI ROMPELLA ",
+        "dob": "2000-05-24T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "VENKATA SRINIVAS",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.064Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.064Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020210008",
+        "name": "HARSHA PRIYA BALLA",
+        "dob": "2000-05-25T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "UDAYA BHASKARA LAKSHMI DEEPAK",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.064Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.064Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020210010",
+        "name": "JHARIKA SRI SRAVANI T",
+        "dob": "2000-05-26T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "YATEENDRANATH",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.065Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.065Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020210024",
+        "name": "SRAVANI VELPURI ",
+        "dob": "2000-05-27T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "RAMA KRISHNA",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.065Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.065Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020210028",
+        "name": "VASANTHA RELANGI ",
+        "dob": "2000-05-28T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "VENKATA SURYA CHANDRA RAJU",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.065Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.065Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020210030",
+        "name": "VENKATA ARAVIND KUMAR P",
+        "dob": "2000-05-29T00:00:00.000Z",
+        "gender": "Male",
+        "fatherName": "BULLIYYA",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.065Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.065Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020210031",
+        "name": "VENKATA LAKSHMI T",
+        "dob": "2000-05-30T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "VIJAY KUMAR",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.066Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.066Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    },
+    {
+        "_id": "2020PHM020210032",
+        "name": "VYSHNAVI KADALI ",
+        "dob": "2000-05-31T00:00:00.000Z",
+        "gender": "Female",
+        "fatherName": "VENKATA BHASKAR RAO",
+        "category": "OC",
+        "joiningYear": 2021,
+        "course": "Pharm D",
+        "currentYear": 2,
+        "yearWiseFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "totalFeesPaid": 0,
+        "collegeName": "SIR C. R. REDDY PHARMACEUTICAL SCIENCES, ELURU",
+        "createdBy": "ROHIT",
+        "lastModifiedBy": "ROHIT",
+        "deleteMark": 0,
+        "isActive": 1,
+        "changeCount": 0,
+        "tenantCode": "Fees",
+        "acl": [],
+        "__v": 0,
+        "dateCreated": "2023-04-25T17:51:15.066Z",
+        "lastModifiedDate": "2023-04-25T17:51:15.066Z",
+        "pendingFees": {
+            "1": {
+                "tuitionFee": 0,
+                "universityDevpFee": 0,
+                "otherUNIVFee": 0
+            },
+            "2": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            },
+            "3": {
+                "tuitionFee": 35000,
+                "universityDevpFee": 35000,
+                "otherUNIVFee": 35000
+            }
+        },
+        "excessFees": 0
+    }
+]
+}
+}
